@@ -1,5 +1,7 @@
 <h2>Hello! 👋 </h2>
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=saurabhkundu)](https://github.com/VanSaurabh)
+
 I'm <b> Saurabh Kundu</b>!
 
 Passionate problem solver and quick learner with 5+ years of experience in designing and developing scalable web/mobile applications.
