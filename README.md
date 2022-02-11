@@ -33,11 +33,7 @@ Passionate problem solver and quick learner with 5+ years of experience in desig
     - Micro-services, Monolithic ( Legacy applications )
     
  - <i> Has experience in building scalable mobile/web Banking applications using [Backbase](https://www.backbase.com/), [Jumio](https://www.jumio.com/) and [Mambu](https://www.mambu.com/)
-
----------
-<h2> I'm currently working on </h2>
-- Building my own portfolio website using React Js ( link will soon be added here, stay tuned! )
-  
+ 
 ---------
 <h2> I’m currently learning </h2>
   
